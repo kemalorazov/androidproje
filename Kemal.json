@@ -1,0 +1,39 @@
+{ "tokat" : [
+    { 
+        "isim" :"Kız Kulesi",
+         "aciklama":"Bugün görülen kulenin temelleri ve alt katın önemli kısımları II. Mehmed devri yapısıdır. Kulenin etrafındaki sahanlık geniş kaplanmıştır. ",
+         "fotourl":"https://raw.githubusercontent.com/MrtAltunok/Mobil/master/h1.jpg",
+		 "tarih":"1725"
+    },
+     { 
+        "isim" :"Fener rum Erkek lisesi",
+         "aciklama":"Fener Rum Erkek Lisesi (Günümüzdeki adı: Özel Fener Rum Lisesi ve İlköğretim Okulu), İstanbul Fener’de, İstanbul'da faaliyet gösteren çok az sayıda kalmış Rum eğitim kurumlarından biridir. ",
+         "fotourl":"https://raw.githubusercontent.com/MrtAltunok/Mobil/master/h2.jpg",
+		 "tarih":"1454"
+    }, { 
+        "isim" :"Rumeli Topçu kalesi",
+         "aciklama":"Rumeli topçu kalesi 18. yüzyılda Rum’ların yaşadığı bölge olan İstanbul’un kuzey sınırında Rum bir mimar tarafından ustaca inşa edilmiştir. Yığma taş tekniği ile inşa edilmiş olan kale, kırım savaşında Fransız’ lara ve İngiliz’ lere ait gemilerin boğaza girişini gözetlemek amacı ile yapılmış bir deniz feneridir.",
+         "fotourl":"https://raw.githubusercontent.com/MrtAltunok/Mobil/master/h3.jpg",
+		 "tarih":"18. Yüzyıl"
+    }, { 
+        "isim" :"Atatürk Arberotumu",
+         "aciklama":"Yılın her mevsiminde yeşil bitki örtüsü ve mükemmel doğal atmosferi ile ziyaretçilerin ilgisini çeken Arboretum’un içerisinde ayrıca 1961 yılında kurulan ve ülkemizin ilk fidanlığı olma unvanını da taşıyan fidanlık da yer alıyor. ",
+         "fotourl":"https://raw.githubusercontent.com/MrtAltunok/Mobil/master/h4.jpg",
+		 "tarih":"1946"
+    }, { 
+        "isim" :"Sen Antuan Kilisesi",
+         "aciklama":"Sent Antuan Kilisesi, İstanbul’da yer alan, en geniş cemaate sahip olan ve en büyük mimari yapıda bulunan bir Katolik Kilisesidir. Kilisenin inşa amacı, Fransız ve İtalya gibi Katolik ülkelerin, ticaret ile uğraşan vatandaşlarına ve bu vatandaşların ailelerine hizmet amacı ile inşa edilmiş ve kutsanmıştır. Osmanlı İmparatorluğu döneminde ise, devlet ve sarat hizmetlerinde kullanılmıştır.",
+         "fotourl":"https://raw.githubusercontent.com/MrtAltunok/Mobil/master/h5.jpg",
+		 "tarih":"1230"
+    }, { 
+        "isim" :"Sultan Ahmet Camii",
+         "aciklama":"Osmanlı tarihinin en önemli eserlerinden olan Sultanahmet Camii, padişah I. Ahmet'in isteği ile Mimar Mehmet Ağa'ya yaptırılmıştır. 1603 yılında, sadece 14 yaşındayken 14. Osmanlı padişahı olarak tahta oturan I. Ahmet'in son derece dindar bir insan olduğu, birçok kaynakta belirtilmektedir.",
+         "fotourl":"https://raw.githubusercontent.com/MrtAltunok/Mobil/master/h6.jpg",
+		 "tarih":"1603"
+    }, { 
+        "isim" : "Yere Batan Sarnıcı",
+         "aciklama":"İstanbul'un görkemli tarihsel yapılarından birisi de Ayasofya’nın güneybatısında bulunan Bazilika Sarnıcı’dır. Bizans İmparatoru I. Justinianus (527-565) tarafından yaptırılan bu büyük yeraltı sarnıcı, suyun içinden yükselen ve sayısız gibi görülen mermer sütunlar sebebiyle halk arasında “Yerebatan Sarayı” olarak isimlendirilmiştir. ",
+         "fotourl":"https://raw.githubusercontent.com/MrtAltunok/Mobil/master/h7.jpg",
+		 "tarih":"527-565"
+    }
+]}
